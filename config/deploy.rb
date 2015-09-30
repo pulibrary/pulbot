@@ -41,9 +41,9 @@ namespace :deploy do
   desc "Stop Hubot"
   task :stop do
     on roles(:app) do
-      test "cd #{release_path} && \
-        forever stop node_modules/.bin/hubot"
-      test "kill $(#{shared_path}/pids/hubot.pid)"
+      test "source /home/deploy/.bashrc && \
+        cd /opt/pulbot/current && \
+        forever stop $(cat #{shared_path}/pids/hubot.pid)"
     end
   end
 
