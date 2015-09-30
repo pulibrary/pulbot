@@ -60,7 +60,7 @@ namespace :deploy do
 
   desc "Base task to restart Hubot after a deployment if he's already running"
   task :restart do
-    # invoke "deploy:stop"
+    invoke "deploy:stop"
     invoke "deploy:start"
   end
 end
