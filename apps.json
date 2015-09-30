@@ -4,5 +4,11 @@
     "auto_merge": false,
     "repository": "pulibrary/Plum",
     "environments": ["staging"]
+  },
+  "pulbot": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/pulbot",
+    "environments": ["production"]
   }
 }
