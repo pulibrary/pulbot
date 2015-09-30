@@ -43,6 +43,7 @@ namespace :deploy do
     on roles(:app) do
       test "cd #{release_path} && \
         forever stop node_modules/.bin/hubot"
+      test "kill $(#{shared_path}/pids/hubot.pid)"
     end
   end
 
