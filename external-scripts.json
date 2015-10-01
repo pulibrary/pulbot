@@ -3,5 +3,6 @@
   "hubot-help",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-deploy"
+  "hubot-deploy",
+  "hubot-auto-deploy"
 ]
