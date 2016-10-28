@@ -23,6 +23,12 @@
     "repository": "pulibrary/pulmap",
     "environments": ["staging"]
   },
+  "cicognara": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/cicognara-rails",
+    "environments": ["staging", "production"]
+  },
   "pulbot": {
     "provider": "capistrano",
     "auto_merge": false,
