@@ -29,6 +29,12 @@
     "repository": "pulibrary/cicognara-rails",
     "environments": ["staging", "production"]
   },
+  "marc_liberation": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/marc_liberation",
+    "environments": ["staging", "production"]
+  },
   "pulbot": {
     "provider": "capistrano",
     "auto_merge": false,
