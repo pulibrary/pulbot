@@ -15,7 +15,7 @@
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "pulibrary/pomegranate",
-    "environments": ["staging"]
+    "environments": ["staging", "production"]
   },
   "pulmap": {
     "provider": "capistrano",
