@@ -5,6 +5,12 @@
     "repository": "pulibrary/Plum",
     "environments": ["staging", "production"]
   },
+  "figgy": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/figgy",
+    "environments": ["staging"]
+  },
   "orangelight": {
     "provider": "capistrano",
     "auto_merge": false,
