@@ -52,5 +52,11 @@
     "auto_merge": false,
     "repository": "pulibrary/pulbot",
     "environments": ["production"]
+  },
+  "pul_solr": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/pul_solr",
+    "environments": ["solr1", "solr2"]
   }
 }
