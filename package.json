@@ -5,15 +5,17 @@
   "author": "Trey Terrell <tterrell@princeton.edu>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "@slack/client": "^4.1.0",
     "hubot": "^2.16.0",
+    "hubot-auto-deploy": "^0.1.9",
+    "hubot-deploy": "^0.6.54",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
     "hubot-redis-brain": "0.0.3",
+    "hubot-reload-scripts": "^0.1.4",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
-    "hubot-slack": "^3.3.0",
-    "hubot-deploy": "^0.6.54",
-    "hubot-auto-deploy": "^0.1.9"
+    "hubot-slack": "^3.3.0"
   },
   "engines": {
     "node": "0.10.x"
