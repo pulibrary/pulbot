@@ -11,7 +11,7 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
-    "hubot-slack": "^4.4.0",
+    "hubot-slack": "github:slackapi/hubot-slack",
     "hubot-deploy": "github:atmos/hubot-deploy",
     "hubot-auto-deploy": "^0.1.9"
   },
