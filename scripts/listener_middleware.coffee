@@ -4,8 +4,11 @@ POWER_COMMANDS = [
   'hubot-deploy.recent'
 ]
 
+# These are Slack IDs.
 POWER_USERS = [
-  'U9QJLS54J' # tpendragon
+  'U9QJLS54J',# Trey
+  'U9JGCQQQN',# Christina
+  'U8C6YATEZ',# James
 ]
 
 module.exports = (robot) ->
@@ -16,8 +19,7 @@ module.exports = (robot) ->
         next()
       else
         # Restricted command, but user isn't in whitelist
-        robot.logger.info "#{context.response.message.user.id} asked me to #{context.response.message.text}"
-        context.response.reply "I'm sorry, @#{context.response.message.user.name}, but you don't have access to do that."
+        context.response.reply "I'm sorry, @#{context.response.message.user.name}(#{context.response.message.user.id}), but you don't have access to do that."
         done()
     else
       # This is not a restricted command; allow everyone
