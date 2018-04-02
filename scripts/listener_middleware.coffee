@@ -5,7 +5,7 @@ POWER_COMMANDS = [
 ]
 
 POWER_USERS = [
-  '@U9QJLS54J' # tpendragon
+  'U9QJLS54J' # tpendragon
 ]
 
 module.exports = (robot) ->
