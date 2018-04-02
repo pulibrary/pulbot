@@ -1,1 +1,4 @@
-[]
+[
+  "listener_middleware",
+  "slack_handler"
+]
