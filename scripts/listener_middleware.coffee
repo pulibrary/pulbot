@@ -5,7 +5,7 @@ POWER_COMMANDS = [
 ]
 
 POWER_USERS = [
-  'tpendragon' # String that matches the user ID set by the adapter
+  '@U9QJLS54J' # tpendragon
 ]
 
 module.exports = (robot) ->
@@ -16,8 +16,8 @@ module.exports = (robot) ->
         next()
       else
         # Restricted command, but user isn't in whitelist
-        robot.logger.info "#{context.response.message.user.name} asked me to #{context.response.message.text}"
-        context.response.reply "I'm sorry, @#{context.response.message.user.id}, but you don't have access to do that."
+        robot.logger.info "#{context.response.message.user.id} asked me to #{context.response.message.text}"
+        context.response.reply "I'm sorry, @#{context.response.message.user.name}, but you don't have access to do that."
         done()
     else
       # This is not a restricted command; allow everyone
