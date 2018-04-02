@@ -12,7 +12,7 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-slack": "^3.3.0",
-    "hubot-deploy": "github:atmos/hubot-deploy",
+    "hubot-deploy": "^0.13.27",
     "hubot-auto-deploy": "^0.1.9"
   },
   "engines": {
