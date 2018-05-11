@@ -13,6 +13,7 @@ POWER_USERS = [
   'U8DJJ8S4S', # Esme
   'U5T4Y86AX', # Nikitas
   'U7YFW7VHA', # Anna
+  'U8D46AE1X', # Shaun
   '1'
 ]
 
