@@ -1,11 +1,11 @@
 # config valid only for current version of Capistrano
-lock '3.4.0'
+# lock '3.4.0'
 
 set :application, 'pulbot'
 set :repo_url, 'https://github.com/pulibrary/pulbot.git'
 
 # Default branch is :master
-# ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
+set :branch, ENV['BRANCH'] || 'master'
 
 # Default deploy_to directory is /var/www/my_app_name
 set :deploy_to, '/opt/pulbot'
