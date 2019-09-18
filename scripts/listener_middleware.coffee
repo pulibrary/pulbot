@@ -17,6 +17,7 @@ POWER_USERS = [
   'U78LWHQ21', # Kevin
   'U69N3MEFL', # Axa
   'UHZUYT0ET', # Carolyn
+  'U9S8GSBUJ', # Cliff
   '1'
 ]
 
