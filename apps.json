@@ -64,5 +64,12 @@
     "auto_merge": false,
     "repository": "pulibrary/plantain",
     "environments": ["staging"]
+  },
+  "digital_collex": {
+    "provider": "shell",
+    "auto_merge": false,
+    "repository": "samvera-labs/digital_collections_elixir_example",
+    "environments": ["production"],
+    "deploy_script": "./bin/deploy.sh"
   }
 }
