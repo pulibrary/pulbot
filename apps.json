@@ -70,6 +70,6 @@
     "auto_merge": false,
     "repository": "pulibrary/digital_collections_elixir_example",
     "environments": ["production"],
-    "deploy_script": "./bin/deploy.sh"
+    "deploy_script": "bin/deploy.sh"
   }
 }
