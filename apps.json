@@ -68,7 +68,7 @@
   "digital_collex": {
     "provider": "shell",
     "auto_merge": false,
-    "repository": "samvera-labs/digital_collections_elixir_example",
+    "repository": "pulibrary/digital_collections_elixir_example",
     "environments": ["production"],
     "deploy_script": "./bin/deploy.sh"
   }
