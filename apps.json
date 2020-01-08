@@ -57,7 +57,7 @@
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "pulibrary/pul_solr",
-    "environments": ["production"]
+    "environments": ["staging", "production"]
   },
   "plantain": {
     "provider": "capistrano",
