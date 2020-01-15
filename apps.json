@@ -64,5 +64,11 @@
     "auto_merge": false,
     "repository": "pulibrary/plantain",
     "environments": ["staging"]
+  },
+  "discoveryutils": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/discoveryutils",
+    "environments": ["staging", "production"]
   }
 }
