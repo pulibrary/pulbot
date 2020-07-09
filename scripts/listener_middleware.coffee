@@ -30,7 +30,7 @@ module.exports = (robot) ->
         # User is allowed access to this command
         next()
       else
-        # Restricted command, but user isn't in whitelist
+        # Restricted command, but user isn't in allow list
         context.response.reply "I'm sorry, @#{context.response.message.user.name}(#{context.response.message.user.id}), but you don't have access to do that."
         done()
     else
