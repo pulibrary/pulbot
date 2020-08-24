@@ -11,7 +11,6 @@ POWER_USERS = [
   'U8C6YATEZ', # James
   'U9UJNLV52', # Eliot
   'U8DJJ8S4S', # Esme
-  'U5T4Y86AX', # Nikitas
   'U7YFW7VHA', # Anna
   'U8D46AE1X', # Shaun
   'U78LWHQ21', # Kevin
@@ -19,6 +18,7 @@ POWER_USERS = [
   'UHZUYT0ET', # Carolyn
   'U9S8GSBUJ', # Cliff
   'U8E6TDCP7', # Francis
+  'U010TCY02T0', # Kate
   '1'
 ]
 
