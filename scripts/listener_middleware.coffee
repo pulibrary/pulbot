@@ -13,12 +13,13 @@ POWER_USERS = [
   'U8DJJ8S4S', # Esme
   'U7YFW7VHA', # Anna
   'U8D46AE1X', # Shaun
-  'U78LWHQ21', # Kevin
+  'U78LWHQ21', # Kevin R
   'U69N3MEFL', # Axa
   'UHZUYT0ET', # Carolyn
   'U9S8GSBUJ', # Cliff
   'U8E6TDCP7', # Francis
   'U010TCY02T0', # Kate
+  'U011BCJD7K9', # Kevin M
   '1'
 ]
 
