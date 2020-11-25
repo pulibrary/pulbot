@@ -63,7 +63,7 @@
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "pulibrary/pulfalight",
-    "environments": ["staging"]
+    "environments": ["staging", "production"]
   },
   "discoveryutils": {
     "provider": "capistrano",
