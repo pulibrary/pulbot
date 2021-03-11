@@ -29,10 +29,10 @@
     "repository": "pulibrary/cicognara-rails",
     "environments": ["staging", "production"]
   },
-  "marc_liberation": {
+  "bibdata": {
     "provider": "capistrano",
     "auto_merge": false,
-    "repository": "pulibrary/marc_liberation",
+    "repository": "pulibrary/bibdata",
     "environments": ["staging", "alma-staging", "production"]
   },
   "lae": {
