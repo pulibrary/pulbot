@@ -11,16 +11,10 @@
     "repository": "pulibrary/orangelight",
     "environments": ["staging", "production", "alma_qa", "qa"]
   },
-  "pomegranate": {
-    "provider": "capistrano",
-    "auto_merge": false,
-    "repository": "pulibrary/pomegranate",
-    "environments": ["staging", "production"]
-  },
   "dpul": {
     "provider": "capistrano",
     "auto_merge": false,
-    "repository": "pulibrary/pomegranate",
+    "repository": "pulibrary/dpul",
     "environments": ["staging", "production"]
   },
   "pulmap": {
