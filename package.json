@@ -9,7 +9,7 @@
     "hawk": "^3.1.3",
     "hubot": "^2.16.0",
     "hubot-auto-deploy": "^0.1.9",
-    "hubot-deploy": "github:atmos/hubot-deploy",
+    "hubot-deploy": "github:pulibrary/hubot-deploy",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
     "hubot-redis-brain": "0.0.3",
