@@ -22,6 +22,7 @@ POWER_USERS = [
   'U011BCJD7K9', # Kevin M
   'U01K4C7MA5Q', # Hector
   'U01NWDDAY0K', # Bess
+  'U023MLPRHK4', # Zaynab
   '1'
 ]
 
