@@ -9,7 +9,7 @@
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "pulibrary/orangelight",
-    "environments": ["staging", "production", "alma-qa", "qa"]
+    "environments": ["staging", "production", "alma-production", "alma-qa", "qa"]
   },
   "dpul": {
     "provider": "capistrano",
