@@ -33,7 +33,7 @@
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "pulibrary/bibdata",
-    "environments": ["staging", "alma-staging", "production", "alma-production"]
+    "environments": ["staging", "production"]
   },
   "lae": {
     "provider": "capistrano",
