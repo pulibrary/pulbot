@@ -82,5 +82,11 @@
     "auto_merge": false,
     "repository": "pulibrary/pdc_discovery",
     "environments": ["staging", "production"]
+  },
+  "oawaiver": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/oawaiver",
+    "environments": ["staging", "production"]
   }
 }
