@@ -88,5 +88,11 @@
     "auto_merge": false,
     "repository": "pulibrary/oawaiver",
     "environments": ["staging", "production"]
+  },
+  "pul_library_drupal": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/pul_library_drupal",
+    "environments": ["staging", "production"]
   }
 }
