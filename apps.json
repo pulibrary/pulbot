@@ -94,5 +94,11 @@
     "auto_merge": false,
     "repository": "pulibrary/pul_library_drupal",
     "environments": ["staging", "production"]
+  },
+  "mudd-dbs": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/mudd-dbs",
+    "environments": ["staging", "production"]
   }
 }
