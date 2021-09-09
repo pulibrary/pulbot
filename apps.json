@@ -100,5 +100,11 @@
     "auto_merge": false,
     "repository": "pulibrary/mudd-dbs",
     "environments": ["staging", "production"]
+  },
+  "approvals": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/approvals",
+    "environments": ["staging", "production"]
   }
 }
