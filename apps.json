@@ -106,5 +106,11 @@
     "auto_merge": false,
     "repository": "pulibrary/approvals",
     "environments": ["staging", "production"]
+  },
+  "dss": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/dss",
+    "environments": ["staging", "production"]
   }
 }
