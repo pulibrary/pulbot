@@ -118,5 +118,11 @@
     "auto_merge": false,
     "repository": "pulibrary/special_collections",
     "environments": ["staging", "production"]
+  },
+  "repec": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/repecwp",
+    "environments": ["staging", "production"]
   }
 }
