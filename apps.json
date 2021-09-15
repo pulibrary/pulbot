@@ -112,5 +112,11 @@
     "auto_merge": false,
     "repository": "pulibrary/dss",
     "environments": ["staging", "production"]
+  },
+  "special_collections": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/special_collections",
+    "environments": ["staging", "production"]
   }
 }
