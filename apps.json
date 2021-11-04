@@ -142,5 +142,11 @@
     "auto_merge": false,
     "repository": "pulibrary/firestone_locator",
     "environments": ["staging", "production"]
+  },
+  "lockers_and_study_spaces": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/lockers_and_study_spaces",
+    "environments": ["staging", "production"]
   }
 }
