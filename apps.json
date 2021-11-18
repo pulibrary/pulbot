@@ -148,5 +148,11 @@
     "auto_merge": false,
     "repository": "pulibrary/lockers_and_study_spaces",
     "environments": ["staging", "production"]
+  },
+  "ouranos": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/ouranos",
+    "environments": ["staging"]
   }
 }
