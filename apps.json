@@ -93,7 +93,7 @@
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "pulibrary/pul_library_drupal",
-    "environments": ["staging", "production"]
+    "environments": ["staging", "production", "production_rolla", "production_rollb"]
   },
   "mudd-dbs": {
     "provider": "capistrano",
