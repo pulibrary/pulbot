@@ -22,7 +22,6 @@ POWER_USERS = [
   'U01K4C7MA5Q', # Hector
   'U01NWDDAY0K', # Bess
   'U022A15624C', # Bess
-  'U023MLPRHK4', # Zaynab
   'U023MLQ1CR0', # Xander
   'U023MLQ2W5Q', # Thanya
   'U02ENLGHPJ5', # Alicia
