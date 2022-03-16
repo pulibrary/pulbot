@@ -119,7 +119,7 @@
     "repository": "pulibrary/special_collections",
     "environments": ["staging", "production"]
   },
-  "repec": {
+  "repecwp": {
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "pulibrary/repecwp",
