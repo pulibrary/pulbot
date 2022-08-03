@@ -51,7 +51,7 @@
     "provider": "capistrano",
     "auto_merge": false,
     "repository": "pulibrary/pul_solr",
-    "environments": ["staging", "production", "solr8-staging", "solr8-production"]
+    "environments": ["staging", "production"]
   },
   "pulfalight": {
     "provider": "capistrano",
