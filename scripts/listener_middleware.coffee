@@ -30,6 +30,7 @@ POWER_USERS = [
   'U03HU5P1ATD', # Michelle
   'U03JSHSEM5H', # Ryan
   'U03N18A3L0H', # Robert
+  'U03N4KUEVCP', # Tyler
   '1'
 ]
 
