@@ -172,5 +172,11 @@
     "auto_merge": false,
     "repository": "PrincetonUniversityLibrary/pas-craft3",
     "environments": ["staging", "production"]
+  },
+  "aspace_helpers": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/aspace_helpers",
+    "environments": ["staging", "production"]
   }
 }
