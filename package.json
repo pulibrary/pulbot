@@ -9,7 +9,7 @@
     "hawk": "^9.0.1",
     "hubot": "^2.16.0",
     "hubot-auto-deploy": "^0.1.9",
-    "hubot-deploy": "git+https://github.com/pulibrary/hubot-deploy.git#slack-room-names",
+    "hubot-deploy": "git+https://github.com/pulibrary/hubot-deploy.git#main",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
     "hubot-redis-brain": "0.0.3",
