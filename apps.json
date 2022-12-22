@@ -178,5 +178,11 @@
     "auto_merge": false,
     "repository": "pulibrary/aspace_helpers",
     "environments": ["staging", "production"]
+  },
+  "geaccirc": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/geaccirc",
+    "environments": ["staging", "production"]
   }
 }
