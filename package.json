@@ -2,7 +2,7 @@
   "name": "pulbot",
   "version": "0.0.0",
   "private": true,
-  "author": "Trey Terrell <tterrell@princeton.edu>",
+  "author": "Trey Pendragon <tpendragon@princeton.edu>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "fresh": "0.5.2",
