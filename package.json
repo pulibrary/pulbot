@@ -7,7 +7,7 @@
   "dependencies": {
     "fresh": "0.5.2",
     "hawk": "9.0.1",
-    "hubot": "2.19.0",
+    "hubot": "3.3.2",
     "hubot-auto-deploy": "0.1.9",
     "hubot-deploy": "github:pulibrary/hubot-deploy#fix-pulbot",
     "hubot-diagnostics": "0.0.1",
