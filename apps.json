@@ -184,5 +184,11 @@
     "auto_merge": false,
     "repository": "pulibrary/geaccirc",
     "environments": ["staging", "production"]
+  },
+  "tigerdata": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/tigerdata",
+    "environments": ["staging", "production"]
   }
 }
