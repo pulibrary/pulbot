@@ -185,10 +185,10 @@
     "repository": "pulibrary/geaccirc",
     "environments": ["staging", "production"]
   },
-  "tigerdata": {
+  "tiger-data-app": {
     "provider": "capistrano",
     "auto_merge": false,
-    "repository": "pulibrary/tigerdata",
+    "repository": "pulibrary/tiger-data-app",
     "environments": ["staging", "production"]
   }
 }
