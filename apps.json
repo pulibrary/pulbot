@@ -196,5 +196,11 @@
     "auto_merge": false,
     "repository": "pulibrary/byzantine_translations",
     "environments": ["staging", "production"]
+  },
+  "imagecat": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pulibrary/imagecat-rails",
+    "environments": ["staging", "production"]
   }
 }
