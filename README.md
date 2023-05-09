@@ -1,5 +1,7 @@
 # pulbot
 
+We no longer use pulbot, please [use Ansible Tower instead](https://github.com/pulibrary/pul-it-handbook/blob/main/services/deployment.md)!
+
 pulbot is a robot that listens in slack for deployment commands.  It's built on the [Hubot](http://hubot.github.com) framework, and was originally generated with by [generator-hubot](https://github.com/github/generator-hubot).
 
 ## Configuration
